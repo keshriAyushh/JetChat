@@ -1,4 +1,4 @@
-package com.ayush.jetchat.ui.theme
+package com.ayush.jetchat.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -57,8 +57,8 @@ fun JetChatTheme(
     if (!view.isInEditMode) {
         SideEffect {
             val window = (view.context as Activity).window
-            window.statusBarColor = colorScheme.primary.toArgb()
-            WindowCompat.getInsetsController(window, view).isAppearanceLightStatusBars = darkTheme
+            window.statusBarColor = Navy.toArgb()
+            WindowCompat.getInsetsController(window, view).isAppearanceLightStatusBars = !darkTheme
         }
     }
 

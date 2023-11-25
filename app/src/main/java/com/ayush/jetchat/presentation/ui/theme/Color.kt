@@ -1,4 +1,4 @@
-package com.ayush.jetchat.ui.theme
+package com.ayush.jetchat.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
