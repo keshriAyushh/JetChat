@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681252636527",
+    "project_id": "jetchat-518e1",
+    "storage_bucket": "jetchat-518e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681252636527:android:ff1474241447fb5bce4a9a",
+        "android_client_info": {
+          "package_name": "com.ayush.jetchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCLdPBczWDTAzJgnA41edeWArWN6LkrMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
